@@ -1,0 +1,16 @@
+
+<style>
+header {
+    background-color: #FFF8DC(133, 172, 44);
+    position: fixed;
+    height: 100%;
+    width: 260px;
+    z-index: 5;
+    padding: 46px;
+}
+body {
+    color: #1a1a1a;
+    background-color: #FFF8DC;
+    font-family: 'Poppins', sans-serif;
+    /* overflow-x: hidden; */
+}
